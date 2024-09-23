@@ -163,14 +163,14 @@ export const workExperience = [
   {
     id: 3,
     title: "Integration & Test Engineer",
-    desc: "Experience in designing and conducting security and reliability tests for avionics systems.",
+    desc: "Experience in designing and conducting security and reliability tests for avionics systems. Test automation to improve efficiency and accuracy",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
   {
     id: 4,
     title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    desc: "Developed and maintained user-facing features using modern frontend technologies such as NextJs, ReactJs, Typescript, GSAP, Three.js",
     className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
