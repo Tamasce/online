@@ -48,7 +48,7 @@ export const BentoGridItem = ({
 }) => {
     const handleDownload = () => {
       const link = document.createElement('a');
-      link.href = '/resume.pdf'; 
+      link.href = '/Stancampiano_Giovanni_Resume.pdf'; 
       link.download = 'Stancampiano_Giovanni_Resume.pdf';
       link.click();
       setCopied(true);
