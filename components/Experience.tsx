@@ -44,7 +44,7 @@ const Experience = () => {
                   src={company.nameImg}
                   alt={company.name}
                   width={company.id === 4 || company.id === 5 ? 100 : 150}
-                  className={`md:w-24 w-20 ${company.id === 5 && 'md:w-[170px] w-[150px]'}`}
+                  className={`md:w-24 w-20 ${company.id === 5 && 'md:w-[170px] w-[170px]'}`}
                 />)}
               </div>
               </LinkPreview>
