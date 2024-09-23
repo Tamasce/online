@@ -12,7 +12,7 @@ const Education = () => {
         </span>
       </h1>
       <div className="flex flex-col items-center max-lg:mt-10 relative">
-        <InfiniteMovingCards items={testimonials} direction="right" speed="slow" className="z-10"/>
+        <InfiniteMovingCards items={testimonials} direction="right" speed="fast" className="z-10"/>
       </div>
     </div>
   )
