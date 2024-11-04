@@ -93,6 +93,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://apple-pro-website--lake.vercel.app",
   },
+  {
+    id: 3,
+    title: "Miriam Website NailArt",
+    des: "Elegant and refined website utilizing Syncfusion libraries.",
+    img: "/miriam.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://miriam-new.vercel.app",
+  },
 ];
 
 export const testimonials = [
