@@ -47,9 +47,7 @@ const RecentProject = () => {
           </div>
         ))}
       </div>
-      <div>
-        <p className=" flex text-xs leading-[1.6] text-white-200 font-normal mt-10 items-center justify-center">Please note that the projects showcased here are for illustrative purposes only, as I focused solely on the frontend development.</p>
-      </div>
+      
       </div>
     </div>
   )
