@@ -99,7 +99,7 @@ export const projects = [
     des: "Elegant and refined website utilizing Syncfusion libraries.",
     img: "/miriam.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://miriam-new.vercel.app",
+    link: "https://miriam-lilac.vercel.app",
   },
 ];
 
