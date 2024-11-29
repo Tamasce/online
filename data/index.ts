@@ -19,7 +19,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'am flexible and fully available to work shifts and participate in business trips.",
+    title: "I am flexible and fully available to work shifts and participate in business trips.",
     description: "",
     className: "lg:col-span-2 md:col-span-4 md:row-span-2",
     imgClassName: "",
