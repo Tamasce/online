@@ -87,11 +87,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "The Art of Grinding",
+    des: "Personalized bodybuilding programs designed to transform your physique and elevate your performance.",
+    img: "/Grinding",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://apple-pro-website--lake.vercel.app",
+    link: "https://gio-sta.vercel.app",
   },
   {
     id: 3,
