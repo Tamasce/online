@@ -20,7 +20,7 @@ const RecentProject = () => {
                 <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]">
                   <img src="/bg.png" alt="bg-img"/>
                 </div>
-                <img src={img} alt={title} className={`${id === 1 && 'z-10 absolute bottom-0 lg:h-[315px] lg:w-[500px]'} ${id=== 2 &&'z-10 absolute'}`}/>
+                <img src={img} alt={title} className={`${id === 1 && 'z-10 absolute bottom-0 lg:h-[315px] lg:w-[500px]'} ${id=== 2 &&'z-10 absolute -bottom-[30px]'}`}/>
               </div>
               <h1 className="font-bold lg:text-2x md:text-xl text-base line-clamp-1">
                 {title}
