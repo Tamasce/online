@@ -89,7 +89,7 @@ export const projects = [
     id: 2,
     title: "The Art of Grinding",
     des: "Personalized bodybuilding programs designed to transform your physique and elevate your performance.",
-    img: "/Grinding",
+    img: "/Grinding.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://gio-sta.vercel.app",
   },
